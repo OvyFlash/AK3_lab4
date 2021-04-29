@@ -1,0 +1,2 @@
+PATH=$PATH:~/opt/xPacks/qemu-arm/2.8.0-7/bin/
+arm-none-eabi-gdb firmware.elf -> gdb-multiarch firmware.elf
